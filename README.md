@@ -1,4 +1,4 @@
-# Hi there, I'm Jesus! - aka [Not_Samus][youtube] 👋 
+# Hi there, I'm Jesus! - aka [Not_Samus] 👋 
 
 
 ## I'm a Student, Peerleader and Developer!!
