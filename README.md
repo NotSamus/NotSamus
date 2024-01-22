@@ -1,11 +1,10 @@
 # Hi there, I'm Jesus! - aka [Not_Samus] 👋 
 
 
-## I'm a Student, Peerleader and Developer!!
+## I'm a CS Student and Developer!!
 
 - 🌱 I’m currently learning everything 🤣🤣
 - 👯 I’m looking to become a content creator and grow as a person!
-- 🥅 2022 Goals: Learn Python
 - ⚡ Fun fact: I love music, playing videogames and playing guitar
 
 ### Connect with me:
