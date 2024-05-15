@@ -29,3 +29,6 @@
 [twitter]: https://twitter.com/Not_Samus
 [instagram]: https://www.instagram.com/die_auserwahlten/
 [linkedin]: https://www.linkedin.com/in/jesus-rafael-lopez-027131191/
+
+## #30NitesOfCode: [Check out my progress!](https://www.codedex.io/@notsamus3015/30-nites-of-code)  
+  ![@notsamus3015 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=notsamus3015)
