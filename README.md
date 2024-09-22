@@ -25,7 +25,7 @@
 <br />
 
 ### Personal Web-page
-[website](notsamus.com)
+[website](https://notsamus.com)
 
 [twitter]: https://twitter.com/Not_Samus
 [instagram]: https://www.instagram.com/die_auserwahlten/
