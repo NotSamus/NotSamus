@@ -1,12 +1,14 @@
-# Hi there, I'm Jesus! - aka [Not_Samus] 👋 
+# Hi there, I'm Jesus! - aka 👋[Not_Samus] 👋 
+I am senior CS student, cybersecurity researcher, and tool developer. I’m passionate about building projects that blend security and education.
 
-
-## I'm a CS Student and Developer!!
-
-- 🌱 I’m currently developing projects for learning purposes
-- 👯 I’m looking to become a content creator and grow as a person!
-- I am the current President of the ACM Student chapter in The University of Texas at El Paso
+- 🌱 I’m currently developing projects for learning purposes and working on research.
+- 🔬 My Research interest is in Quantum Computing and Cybersecurity.
 - ⚡ Fun fact: I love music, playing videogames and fergs
+## Current obsessions🫠🤌🏻:
+- Post-Quantum Cryptography
+- Building interactive simulators for Data Structures
+- Capture The Flag Hackathons
+- Coffee and music
   <br />
 ![ferg](https://i.imgur.com/iwzGQ7q.gif)
 ### Connect with me:
@@ -24,7 +26,4 @@
 
 [twitter]: https://twitter.com/Not_Samus
 [instagram]: https://www.instagram.com/die_auserwahlten/
-[linkedin]: https://www.linkedin.com/in/jesus-rafael-lopez-027131191/
-
-## #30NitesOfCode: [Check out my progress!](https://www.codedex.io/@notsamus3015/30-nites-of-code)  
-  ![@notsamus3015 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=notsamus3015)
+[linkedin]: https://www.linkedin.com/in/jlopez126/
