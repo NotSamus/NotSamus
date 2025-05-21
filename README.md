@@ -1,11 +1,8 @@
-# Hi there, I'm Jesus! - aka 👋[Not_Samus] 👋 
-I am senior CS student, cybersecurity researcher, and tool developer. I’m passionate about building projects that blend security and education.
-<br>
-<br>
-**I use arch BTW**
+# Hi there, I'm Jesus! - aka [NotSamus]  
+I am senior CS student, cybersecurity researcher, and tool developer. I’m passionate about building projects that blend security and education. **I use arch BTW**.
 - 🌱 I’m currently developing projects for learning purposes and working on research.
 - 🔬 My Research interest is in Quantum Computing and Cybersecurity.
-- ⚡ Fun fact: I love music, playing videogames and fergs
+- ⚡ Fun fact: I love music, playing videogames and fergs.
 ## Current obsessions🫠🤌🏻:
 - Post-Quantum Cryptography
 - Building interactive simulators for Data Structures
