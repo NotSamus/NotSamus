@@ -4,10 +4,11 @@ I am senior CS student, cybersecurity researcher, and tool developer. I’m pass
 - 🔬 My Research interest is in Quantum Computing and Cybersecurity.
 - ⚡ Fun fact: I love music, playing videogames and fergs.
 ## Current obsessions🫠🤌🏻:
+- Quantum Machine Learning
 - Post-Quantum Cryptography
 - Building interactive simulators for Data Structures
 - Capture The Flag Hackathons
-- Coffee and music
+- Tea and music
   <br />
 ![ferg](https://i.imgur.com/iwzGQ7q.gif)
 ### Connect with me:
